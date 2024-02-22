@@ -5,6 +5,7 @@ html{
     font-weight: 400;
     font-style: normal;
     background-color: #e8e8e8;
+    font-size: 2vw;
 }
 
 i{
@@ -13,6 +14,7 @@ i{
 
 button{
     border-radius: 8px;
+    size: 2vw;
 }
 
 button:hover{
