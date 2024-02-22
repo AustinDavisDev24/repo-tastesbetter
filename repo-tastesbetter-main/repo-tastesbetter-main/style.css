@@ -1,11 +1,28 @@
 
-p{
-    color:red;
+html{
+    color:black;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #e8e8e8;
 }
+
+i{
+   font-size: 40px; 
+}
+
+button{
+    border-radius: 8px;
+}
+
+button:hover{
+    border-radius: 8px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
 /*
 .permanent-marker-regular {
     font-family: "Permanent Marker", cursive;
     font-weight: 400;
     font-style: normal;
   }
-  
